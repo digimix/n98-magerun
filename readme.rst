@@ -101,6 +101,9 @@ Just rename it to whatever you want. Or better: create an alias so that the orig
 be useful if you exchange scripts that are making use of magerun with other users as the canonical name is
 `n98-magerun.phar`, Some common aliases amongst the user-base are `magerun` or just `mr` even.
 
+For example, let's name the command `magerun`...
+.. code-block:: sudo ln -s /usr/local/bin/n98-magerun.phar /usr/local/bin/magerun
+
 
 .. _file-server: http://files.magerun.net/
 
